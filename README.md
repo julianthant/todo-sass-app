@@ -30,4 +30,4 @@ npm start
 
 `npm start` copies the source into `dist/`, watches for changes and serves the site with Browser-Sync. `npm run build` produces a minified build.
 
-A later version with accounts and a database is in [todo-mern](https://github.com/julianthant/todo-mern).
+A later version with accounts and a database is in [todo-app](https://github.com/julianthant/todo-app).
