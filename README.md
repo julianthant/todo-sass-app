@@ -2,7 +2,7 @@
 
 A to-do list in plain JavaScript and Sass. Add, edit and delete items in the browser. This was one of my first web projects, built in August 2023.
 
-**Live site:** https://juju-to-do-list.netlify.app
+**Live site:** https://todo-sass.julianzaw.me
 
 ![To-do list app](.github/assets/screenshot.png)
 
